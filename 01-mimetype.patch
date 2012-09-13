@@ -1,0 +1,7 @@
+--- origsrc/envision/data/desktop/envision.desktop	2012-09-12 19:18:51.000000000 -0500
++++ src/envision/data/desktop/envision.desktop	2012-09-12 20:30:46.313626700 -0500
+@@ -11,3 +11,4 @@ Icon=envision
+ Terminal=false
+ Type=Application
+ Categories=Application;Utility;
++MimeType=application/pdf;
