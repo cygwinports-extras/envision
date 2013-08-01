@@ -13,4 +13,6 @@ SVN_REV=${PV[4]}
 SVN_MODULE=${SVN_BRANCH##*/}
 inherit svn
 
+WANT_AUTOMAKE=1.11
+
 KEEP_LA_FILES="none"
